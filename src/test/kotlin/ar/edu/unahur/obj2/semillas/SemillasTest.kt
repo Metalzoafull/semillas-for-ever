@@ -77,6 +77,7 @@ class SemillasTest : DescribeSpec ({
             parcela.plantarPlanta(soja)
             parcela.plantarPlanta(soja)
             parcela.plantarPlanta(soja).shouldBeNull()*/
+
         }
 
         it("parcelas ideales"){
